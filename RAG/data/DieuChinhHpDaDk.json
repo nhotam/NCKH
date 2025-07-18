@@ -1,0 +1,54 @@
+[
+ {
+    "question": "Mình bị trễ hạn đăng ký học phần thì có còn cách nào xử lý không?",
+    "answer": "Có nha! Nếu bạn lỡ hạn đăng ký học phần thì vẫn có 2 trường hợp bạn có thể xử lý được. Một là trong thời gian gia hạn đăng ký mà phòng Đào tạo Đại học & Công tác sinh viên (ĐTĐH&CTSV) thông báo, bạn vẫn có thể đăng ký bổ sung online. Hai là nếu không đăng ký được trên mạng thì bạn cần nộp đơn trực tiếp lên phòng ĐTĐH&CTSV để được xem xét xử lý nha."
+  },
+  {
+    "question": "Trường hợp mình không đăng ký được học phần trên mạng thì phải làm sao?",
+    "answer": "Nếu bạn không thể đăng ký học phần trên mạng trong thời gian gia hạn thì bạn cần nộp đơn trực tiếp cho phòng ĐTĐH&CTSV. Nhớ dùng đúng mẫu đơn cập nhật trên web của phòng nhé!"
+  },
+  {
+    "question": "Trong tuần đầu học kỳ chính, mình muốn đổi học phần thì có được không bạn?",
+    "answer": "Được nha! Trong 2 tuần đầu học kỳ chính, bạn có thể đăng ký thêm học phần mới, đổi học phần hoặc xin rút bớt học phần để điều chỉnh thời khóa biểu cho hợp lý. Nhưng nhớ là phải nộp đơn trực tiếp và chờ phòng ĐTĐH&CTSV xét duyệt đó bạn."
+  },
+  {
+    "question": "Khi nào mình được phép rút bớt học phần đã đăng ký?",
+    "answer": "Bạn chỉ được phép rút học phần trong 2 tuần đầu của học kỳ chính hoặc 1 tuần đầu của học kỳ phụ. Tuy nhiên, bạn cần nộp đơn trực tiếp và chỉ được rút khi phòng ĐTĐH&CTSV duyệt cho rút nha."
+  },
+  {
+    "question": "Nếu lớp học phần mình đăng ký bị quá số lượng thì sao?",
+    "answer": "Phòng ĐTĐH&CTSV sẽ xét duyệt đơn đăng ký học phần của bạn dựa trên quy định về số lượng sinh viên tối thiểu và tối đa cho mỗi lớp. Nếu cần, phòng có thể mở thêm lớp hoặc tách lớp theo đề xuất của Khoa để hỗ trợ sinh viên đó."
+  },
+  {
+    "question": "Mình thấy trên web có nhiều mẫu đơn, không biết dùng cái nào là đúng?",
+    "answer": "Bạn nên dùng mẫu đơn mới nhất đã được cập nhật trên website của phòng ĐTĐH&CTSV nha. Tránh dùng các mẫu đơn cũ vì có thể không còn hợp lệ nữa đó!"
+  },
+  {
+    "question": "Trong học kỳ phụ, mình có được đăng ký thêm môn sau khi bắt đầu học chưa?",
+    "answer": "Trong học kỳ phụ, bạn vẫn có thể đăng ký thêm hoặc điều chỉnh học phần trong vòng 1 tuần đầu tiên đó. Nhưng bạn phải nộp đơn trực tiếp cho phòng ĐTĐH&CTSV để được xử lý nha!"
+  },
+  {
+    "question": "Mình có thể điều chỉnh thời khóa biểu cá nhân sau khi đã đăng ký học phần không?",
+    "answer": "Có thể bạn nha, nhưng phải trong thời gian quy định. Cụ thể là trong 2 tuần đầu học kỳ chính hoặc 1 tuần đầu học kỳ phụ, bạn có thể đăng ký thêm, đổi học phần hoặc xin rút để sắp xếp lại thời khóa biểu. Nhớ nộp đơn và đợi duyệt nha!"
+  },
+  {
+    "question": "Nếu phòng ĐT không cho đăng ký thêm học phần vì lớp quá đông thì có giải pháp nào khác không?",
+    "answer": "Trong trường hợp lớp học phần vượt quá số lượng cho phép, phòng ĐTĐH&CTSV có thể xem xét mở rộng lớp hoặc tách lớp theo đề nghị từ Khoa. Bạn nên nộp đơn và chờ xét duyệt nha!"
+  },
+  {
+    "question": "Các mẫu đơn đăng ký học phần mới nhất thì mình lấy ở đâu vậy bạn?",
+    "answer": "Bạn có thể tải mẫu đơn mới nhất trực tiếp từ website của phòng Đào tạo Đại học & Công tác sinh viên nha. Nhớ dùng đúng mẫu mới được cập nhật, đừng dùng mẫu cũ để tránh bị từ chối xử lý nhé!"
+  },
+  {
+    "question": "Mình đã nộp đơn cho phòng ĐTĐH&CTSV rồi thì kiểm tra kết quả ở đâu vậy bạn?",
+    "answer": "Bạn vào Website Trang thông tin đào tạo đại học của Trường để kiểm tra kết quả xét duyệt nha."
+  },
+  {
+    "question": "Khoảng bao lâu thì có kết quả xét duyệt đơn hả bạn?",
+    "answer": "Trong vòng 03 ngày kể từ khi nộp đơn là bạn có thể xem được kết quả trên Website rồi nha."
+  },
+  {
+    "question": "Nếu sau 3 ngày mà mình vẫn chưa thấy kết quả đơn thì phải làm sao?",
+    "answer": "Bạn nên liên hệ với chuyên viên Phòng ĐTĐH&CTSV để được kiểm tra và giải quyết kịp thời nha."
+  }
+]
