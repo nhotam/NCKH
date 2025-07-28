@@ -41,3 +41,4 @@ vectorstore = Chroma.from_documents(all_docs, embedding=embedding, persist_direc
 vectorstore.persist()
 
 print(f"✅ Vector DB đã được tạo và lưu vào {VECTORSTORE_DIR}/")
+#đây là comment
