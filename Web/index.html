@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- GG Font -->
+     <head>
+    <link rel="icon" type="image/png" href="/Web/images/favicon.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cactus+Classical+Serif&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/Web/style.css">
+    <title>ChatBot</title>
+</head>
+
+<body>
+    <div>
+        <!-- HEADER -->
+        <div class="Header">
+            <div class="HeaderTitle">
+                <div class="Logo">
+                    <img src="/Web/images/logo-husc.png" alt="">
+                </div>
+                <div class="HeaderSubtitle">
+                    <span>Chatbot</span><br>
+                    <span>Trường ĐH Khoa Học Huế</span>
+                </div>
+            </div>
+
+            <div class="SwitchMode">
+                <button id="toggle-mode" class="ModeButton">
+                    <img id="mode-icon" src="/Web/images/BongDenWhite.png" alt="Toggle mode" />
+                </button>
+            </div>
+        </div>
+
+        <hr class="Line">
+
+        <!-- USERS - BOT MESSAGES -->
+        <div class="ChatContainer" id="chat-box">
+            <!-- Tin nhắn sẽ được JS thêm vào đây -->
+        </div>
+
+        <!-- BOX REQUEST -->
+        <div class="RequestBox">
+            <input type="text" class="InputMessage" id="user-input"
+                placeholder="Nhập câu hỏi (Hãy viết đúng chính tả để chatbot có thể trả lời chính xác nhất)">
+            <button class="SendButton" id="send-btn">
+                <img src="/Web/images/MuiTenWhite.png" alt="Gui" class="SendIcon">
+            </button>
+        </div>
+
+
+        <script src="/Web/javas.js"></script>
+</body>
+
+</html>

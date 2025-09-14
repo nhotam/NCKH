@@ -1,0 +1,260 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Cactus Classical Serif', sans-serif;
+}
+body {
+    background: #fff; /* mặc định sáng */
+    color: #000; 
+}
+
+body.light-mode {
+    background: #fff;
+    color: #000; 
+}
+
+body.dark-mode {
+    background: #2F2B2B;
+    color: #fff;
+}
+
+.dark-mode .HeaderSubtitle {
+    color: #fff !important;
+}
+
+.dark-mode .Line {
+    border-top: 2px solid #fff;
+}
+
+.dark-mode .ChatContainer {
+    background: #2F2B2B;
+    color: #fff;
+}
+
+.dark-mode .UserMessage {
+    background: #2F2B2B !important;
+    color: #fff !important;
+}
+
+.dark-mode .BotMessage {
+    color: #fff !important;
+}
+
+/* HEADER */
+.Header {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 26px 24px;
+}
+
+.HeaderTitle {
+    display: flex;
+    align-items: center;
+    margin-left: 50px;
+}
+
+.Logo img {
+    height: 80px;
+    /* Đặt chiều cao logo */
+    width: auto;
+    margin-right: 12px;
+    /* Khoảng cách với chữ */
+    display: block;
+}
+
+.HeaderSubtitle {
+    font-size: 1.5rem;
+    /* Đặt kích cỡ chữ gần bằng chiều cao logo */
+    font-weight: bold;
+    color: #ffffff;
+    line-height: 1;
+}
+
+.SwitchMode {
+    margin-left: auto;
+    margin-right: 36px;
+    display: flex;
+    align-items: center;
+}
+
+.ModeButton {
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    outline: none;
+    padding: 0;
+}
+
+.ModeButton img {
+    width: 44px;
+    height: 44px;
+    transition: filter 0.2s;
+}
+
+.Line {
+    border: none;
+    border-top: 2px solid #fff;
+    margin-top: -15px;
+}
+
+/* USERUSERS - BOT MESSAGES  */
+.ChatContainer {
+    background: #2F2B2B;
+    border-radius: 8px;
+    padding: 16px;
+    margin: 0 auto 16px auto;
+    margin-top: 30px;
+    width: 80vw;
+    /* Chiếm gần hết chiều ngang */
+    max-width: 90vw;
+    /* Giới hạn tối đa gần hết màn hình */
+    min-height: 300px;
+    height: 63vh;
+    overflow-y: auto;
+    /* box-shadow: 0 2px 8px #1a1919; */
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.UserMessage,
+.BotMessage {
+    max-width: 80%;
+    padding: 10px 16px;
+    border-radius: 16px;
+    font-size: 1rem;
+    word-break: break-word;
+}
+
+.UserMessage {
+    align-self: flex-end;
+    background: #2F2B2B;
+    /* Giống ô nhập dữ liệu */
+    color: #fff;
+    border-radius: 8px;
+    padding: 14px 16px;
+    font-size: 1rem;
+    margin-bottom: 4px;
+    max-width: 80%;
+    box-shadow: 0 1px 4px rgba(159, 157, 157, 0.267);
+}
+
+.BotMessage {
+    align-self: flex-start;
+    background: none;
+    /* Không có nền */
+    color: #fff;
+    /* Màu chữ trắng cho dark mode */
+    border-radius: 0;
+    padding: 0 4px;
+    font-size: 1rem;
+    margin-bottom: 8px;
+    max-width: 90%;
+    box-shadow: none;
+}
+
+/* BOX REQUEST  */
+.RequestBox {
+    display: flex;
+    align-items: center;
+    margin: 0 auto 24px auto;
+    width: 80vw;
+    max-width: 96vw;
+    background: #2F2B2B;
+    box-shadow: 0 1px 4px rgba(159, 157, 157, 0.267);
+    border-radius: 8px;
+    box-sizing: border-box;
+    padding: 4px 8px;
+}
+
+.InputMessage {
+    flex: 1;
+    padding: 14px 16px;
+    border: none;
+    font-size: 1rem;
+    outline: none;
+    background: transparent;
+    color: #fff;
+    border-radius: 8px;
+}
+
+.InputMessage::placeholder {
+    color: #bbb;
+    opacity: 1;
+    font-style: italic;
+}
+
+.SendButton {
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 8px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 4px;
+    transition: background 0.2s;
+}
+
+.SendButton:hover {
+    background: #615858;
+}
+
+.SendIcon {
+    width: 28px;
+    height: 28px;
+    filter: brightness(2);
+    /* background-color: #393434; */
+}
+
+
+/* STYLE WHITE MODE */
+
+
+body.light-mode {
+    background: #fff;
+}
+
+.light-mode .HeaderSubtitle {
+    color: #111 !important;
+}
+
+.light-mode .Line {
+    border-top: 2px solid #111;
+}
+
+.light-mode .ChatContainer {
+    background: #ffffff;
+    box-shadow: 0 2px 8px #ffffff;
+}
+
+.light-mode .RequestBox,
+.light-mode .UserMessage {
+    background: #ffffff !important;
+    box-shadow: 0 2px 8px #ddd;
+    color: #111 !important;
+}
+
+.light-mode .BotMessage {
+    color: #111 !important;
+    background: none !important;
+}
+
+.light-mode .InputMessage {
+    color: #111 !important;
+}
+
+.light-mode .InputMessage::placeholder {
+    color: rgba(0, 0, 0, 0.4) !important;
+}
+
+.WelcomeMessage {
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: bold;
+    opacity: 0.85;
+    margin: 40px 0;
+    color: #4A90E2;
+}

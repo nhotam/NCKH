@@ -1,0 +1,281 @@
+[
+  {
+    "question": "Mình muốn đăng nhập vào UMS thì làm sao?",
+    "answer": "Bạn mở trình duyệt (Chrome, Firefox, IE...) và truy cập http://ums.husc.edu.vn/, chọn mục “TRANG SINH VIÊN” trên menu chính, sau đó nhập mã sinh viên và mật khẩu."
+  },
+  {
+    "question": "Tài khoản và mật khẩu đăng nhập là gì?",
+    "answer": "Tài khoản chính là mã sinh viên của bạn (ví dụ: 16T1021140). Mật khẩu mặc định do Phòng ĐTĐH&CTSV cung cấp qua văn phòng khoa, bạn liên hệ để nhận nhé."
+  },
+  {
+    "question": "Lần đầu đăng nhập thì mật khẩu như thế nào?",
+    "answer": "Sinh viên khóa mới sẽ được cấp mật khẩu mặc định. Sau khi đăng nhập xong, bạn nhớ thay đổi ngay để bảo vệ tài khoản."
+  },
+  {
+    "question": "Nếu quên mật khẩu thì phải làm sao?",
+    "answer": "Bạn liên hệ Phòng ĐTĐH&CTSV (mang theo giấy tờ tùy thân có dán ảnh) để được cấp lại mật khẩu."
+  },
+  {
+    "question": "Khi đăng nhập xong xuất hiện hỏi “Remember password for ...?”, mình có nên chọn lưu không?",
+    "answer": "Để bảo mật, bạn nên tick vào “Never Remember Password for This Site” để trình duyệt không lưu mật khẩu."
+  },
+  {
+    "question": "Trước khi đăng nhập mình có xem được thông báo nào không?",
+    "answer": "Có, bạn vẫn xem được các thông báo trên trang chủ. Mọi thông báo liên quan đến sinh viên đều được đăng tải ở đó, bạn nhớ kiểm tra thường xuyên."
+  },
+  {
+    "question": "Làm sao để cập nhật nhanh thông báo mới?",
+    "answer": "Bạn nên truy cập mục “TRANG SINH VIÊN” mỗi ngày hoặc bật thông báo email/sms nếu trường có hỗ trợ để không bỏ sót thông tin."
+  },
+
+  
+  {
+    "question": "Học kỳ tác nghiệp là gì vậy bạn?",
+    "answer": "Học kỳ tác nghiệp chính là học kỳ mà bạn đã dùng để thực hiện các thao tác trước đó — nó sẽ tự động được chọn làm mặc định khi bạn đăng nhập."
+  },
+  {
+    "question": "Mình muốn làm thao tác ở học kỳ khác thì phải làm sao?",
+    "answer": "Bạn chỉ cần bấm vào dòng “Học kỳ: x, năm học: xxxx‑xxxx” ở góc trên bên phải, chọn học kỳ mới từ danh sách rồi nhấn nút “Tác nghiệp” với ngành và học kỳ bạn đã chọn."
+  },
+  {
+    "question": "Nếu không đổi thì hệ thống có tiếp tục dùng học kỳ cũ không?",
+    "answer": "Đúng rồi, nếu bạn không thay đổi thì mọi thao tác tiếp theo đều diễn ra ở học kỳ đã chọn trước đó."
+  },
+  {
+    "question": "Mình nhỡ chọn sai học kỳ, có thể đổi lại nhiều lần không?",
+    "answer": "Bạn có thể thay đổi bao nhiêu lần cũng được. Chỉ cần vào mục học kỳ góc trên, chọn lại và nhấn “Tác nghiệp” là xong."
+  },
+  {
+    "question": "Làm sao để mình đổi mật khẩu lần đầu?",
+    "answer": "Sau khi đăng nhập, bạn vào mục Đổi mật khẩu, nhập mật khẩu cũ do Phòng ĐTĐH&CTSV cấp và mật khẩu mới bạn tự chọn, rồi xác nhận là xong."
+  },
+  {
+    "question": "Tại sao mình phải đổi ngay mật khẩu được cấp sẵn?",
+    "answer": "Vì đây là tài khoản cực kỳ quan trọng để bạn đăng ký học, xem kết quả… Đổi ngay giúp bảo vệ thông tin và tránh người khác truy cập trái phép."
+  },
+  {
+    "question": "Mật khẩu mới cần đáp ứng những tiêu chí gì?",
+    "answer": "Bạn nên kết hợp chữ và số, tránh dùng tên, ngày sinh, biển số xe… để tăng độ bảo mật."
+  },
+  {
+    "question": "Nếu đặt mật khẩu chưa đủ mạnh thì có thông báo không?",
+    "answer": "Hệ thống sẽ nhắc nếu mật khẩu chưa đủ ký tự hoặc chỉ toàn số/chữ. Lúc đó bạn chỉnh thêm chữ và số cho phức tạp hơn."
+  },
+  {
+    "question": "Mục “Lý lịch cá nhân” nằm ở đâu và mình vào bằng cách nào?",
+    "answer": "Bạn vào menu chính sau khi đăng nhập, chọn “Lý lịch cá nhân” để xem và chỉnh sửa thông tin cá nhân."
+  },
+  {
+    "question": "Mình cần kiểm tra những thông tin nào trong lý lịch cá nhân?",
+    "answer": "Bạn nên đối chiếu họ tên, ngày sinh, địa chỉ, email và số điện thoại để đảm bảo tất cả đều chính xác."
+  },
+  {
+    "question": "Tại sao phải cập nhật thông tin cá nhân ngay khi thay đổi mật khẩu?",
+    "answer": "Thông tin chính xác giúp tránh sai sót khi cấp bảng điểm, bằng tốt nghiệp và các giấy tờ liên quan khác về sau."
+  },
+  {
+    "question": "Nếu thấy có lỗi, mình chỉnh sửa như thế nào và cần lưu ý gì?",
+    "answer": "Bạn sửa trực tiếp trong form, sau đó nhấn “Lưu” hoặc “Cập nhật”. Nhớ kiểm tra kỹ trước khi lưu để không phải sửa nhiều lần."
+  },
+  {
+    "question": "Mình tìm mục xem tin tức và thông báo ở đâu sau khi đăng nhập?",
+    "answer": "Bạn vào “Tin tức – Thông báo” trên menu chính để xem tất cả cập nhật và thông báo mới nhất của trường."
+  },
+  {
+    "question": "Làm sao để xem thời khóa biểu cá nhân?",
+    "answer": "Bạn chọn “Thời khóa biểu học tập” ngay trên thanh menu để xem lịch học của mình theo tuần hoặc theo tháng."
+  },
+  {
+    "question": "Mình có thể đọc tin nhắn của giảng viên hoặc bạn cùng lớp ở đâu?",
+    "answer": "Bạn vào mục “Tin nhắn”, ở đó bạn sẽ thấy tất cả tin nhắn đến từ giảng viên và sinh viên khác."
+  },
+  {
+    "question": "Làm sao để gửi tin nhắn cho giảng viên hoặc bạn học?",
+    "answer": "Trong “Tin nhắn”, bạn nhấn nút “Soạn tin nhắn”, chọn người nhận, nhập nội dung và gửi là xong."
+  },
+  {
+    "question": "Tin tức – Thông báo có tự động cập nhật không, hay mình phải làm gì thêm?",
+    "answer": "Hệ thống cập nhật tự động khi có thông báo mới. Bạn chỉ cần vào lại mục “Tin tức – Thông báo” thường xuyên để không bỏ lỡ."
+  },
+  {
+    "question": "Mình đăng ký lớp học phần ở đâu sau khi đăng nhập?",
+    "answer": "Bạn vào “Hỗ trợ hoạt động học tập” → “Đăng ký học tập” để bắt đầu đăng ký lớp học phần."
+  },
+  {
+    "question": "Ba loại học phần trong danh sách là gì và khác nhau thế nào?",
+    "answer": "• “Theo kế hoạch đào tạo”: học phần chính của bạn trong kỳ này.  \n• “Theo CTĐT”: học phần của khóa khác (dùng khi bạn học lại, cải thiện điểm hoặc vượt).  \n• “Ngoại khóa”: học phần bồi dưỡng thêm, không tính tích lũy."
+  },
+  {
+    "question": "Mình chọn nhóm lớp học phần như thế nào?",
+    "answer": "Khi danh sách học phần hiện ra, bạn bấm vào ô cuối tương ứng với nhóm lớp muốn học để chọn nhóm đó."
+  },
+  {
+    "question": "Phải làm gì sau khi chọn học phần và nhóm?",
+    "answer": "Bạn nhập mã xác nhận vào ô “Nhập mã xác nhận”, rồi nhấn nút “Đăng ký lớp học phần này” để hoàn tất."
+  },
+  {
+    "question": "Tại sao mình không đăng ký được khi lớp đã đầy?",
+    "answer": "Hệ thống chỉ cho đăng ký nếu số lượng hiện tại chưa vượt quá giới hạn tối đa do khoa quy định."
+  },
+  {
+    "question": "Mình muốn hủy lớp đã đăng ký thì làm sao?",
+    "answer": "Bạn vào “Hỗ trợ hoạt động học tập” → “Lớp học phần đã đăng ký”, bấm vào ô cuối lớp muốn hủy, nhập mã xác nhận và nhấn “Đồng ý hủy đăng ký”."
+  },
+  {
+    "question": "Mình xem danh sách lớp đã đăng ký ở đâu?",
+    "answer": "Trong “Lớp học phần đã đăng ký” bạn sẽ thấy toàn bộ lớp mình đã đăng ký để kiểm tra."
+  },
+  {
+    "question": "Đăng ký đã được duyệt rồi có hủy được không?",
+    "answer": "Khi Phòng ĐTĐH&CTSV duyệt rồi, bạn không thể tự hủy. Nếu cần hủy, bạn phải liên hệ trực tiếp Phòng ĐTĐH&CTSV."
+  },
+  {
+    "question": "Mình đã đăng ký lớp học phần nhưng giờ muốn hủy, có được không bạn?",
+    "answer": "Nếu đăng ký của bạn chưa được Phòng ĐTĐH&CTSV duyệt thì bạn vẫn có thể tự hủy trên hệ thống. Còn nếu đã được duyệt rồi thì bạn cần liên hệ trực tiếp với Phòng ĐTĐH&CTSV để được hỗ trợ nhé."
+  },
+  {
+    "question": "Sao tên mình chưa có trong danh sách lớp dù đã đăng ký học phần?",
+    "answer": "Có thể đăng ký của bạn chưa được duyệt. Bạn nên kiểm tra lại trong mục 'Lớp học phần đã đăng ký', nếu vẫn chưa thấy tên thì liên hệ Phòng ĐTĐH&CTSV ngay để được xử lý sớm nha."
+  },
+  {
+    "question": "Nếu mình không học lớp đã đăng ký thì có cần nộp học phí không?",
+    "answer": "Có bạn nha. Hệ thống tính học phí dựa trên lớp bạn đã đăng ký, kể cả bạn có học hay không. Nên nếu không học, bạn phải hủy trước khi ĐTĐH&CTSV duyệt để tránh bị tính học phí."
+  },
+  {
+    "question": "Làm sao kiểm tra xem lớp mình đăng ký đã được duyệt chưa?",
+    "answer": "Bạn vào 'Hỗ trợ hoạt động học tập' → 'Lớp học phần đã đăng ký', nhấn đôi vào tên lớp để xem chi tiết. Ở đó sẽ có thông tin về học phí, tình trạng duyệt… đầy đủ cho bạn kiểm tra."
+  },
+  {
+    "question": "Xem thời khóa biểu tuần học của từng lớp ở đâu vậy?",
+    "answer": "Bạn vào mục 'Hỗ trợ hoạt động học tập' → 'Lịch trình học tập' là sẽ xem được thời khóa biểu chi tiết theo từng tuần nha."
+  },
+  {
+    "question": "Trong thời khóa biểu chỉ có mã học phần, làm sao mình biết lớp nào với lớp nào?",
+    "answer": "Bạn nhớ ghi chú lại tên học phần và nhóm lớp tương ứng khi đăng ký nhé. Vì khi lên thời khóa biểu, hệ thống chỉ hiển thị mã học phần, không có tên chi tiết đâu."
+  },
+  {
+    "question": "Thời khóa biểu có thay đổi không hay cố định suốt học kỳ vậy bạn?",
+    "answer": "Thời khóa biểu có thể thay đổi theo từng tuần, như phòng học hoặc thời gian học. Bạn nên kiểm tra trước mỗi tuần để cập nhật lịch học mới nha."
+  },
+  {
+    "question": "Nếu có thay đổi về lịch học hay hủy lớp thì mình được thông báo ở đâu?",
+    "answer": "Các thay đổi như lịch học, hủy lớp... sẽ được cập nhật trên trang chủ. Bạn nhớ theo dõi thường xuyên để không bị bỏ lỡ thông tin quan trọng nha."
+  },
+  {
+    "question": "Làm sao để biết mình đã được duyệt đăng ký lớp học phần chưa?",
+    "answer": "Bạn vào mục 'Danh sách sinh viên của lớp học phần', ở đó sẽ thấy tên mình có được duyệt hay chưa cùng với danh sách các bạn khác trong lớp."
+  },
+  {
+    "question": "Có cách nào để xem lại tất cả các lớp mình đã đăng ký không?",
+    "answer": "Có nha, bạn vào mục 'Các lớp đã đăng ký' để xem tổng hợp tất cả lớp học phần mà bạn đã đăng ký trong kỳ học."
+  },
+  {
+    "question": "Mình muốn gửi tin nhắn đến giảng viên thì làm thế nào?",
+    "answer": "Bạn vào mục 'Gửi tin nhắn đến', chọn người nhận là giảng viên hoặc sinh viên bạn cần trao đổi, nhập nội dung và gửi đi là được."
+  },
+  {
+    "question": "Bạn ơi, khi nào thì mình xem được lịch thi cuối kỳ?",
+    "answer": "Khi gần đến kỳ thi kết thúc học kỳ, bạn vào mục 'Hỗ trợ hoạt động học tập' → 'Lịch thi kết thúc học phần' để xem lịch thi nhé. Hệ thống sẽ cập nhật đầy đủ các môn bạn đã đăng ký thi."
+  },
+  {
+    "question": "Mình đăng ký học phần ở Trường Ngoại ngữ, có xem lịch thi ở chỗ đó luôn không bạn?",
+    "answer": "Không bạn nha. Lịch thi của các học phần học tại Trường Đại học Ngoại ngữ và Khoa Giáo dục Thể chất sẽ được thông báo riêng ở phần Tin tức trên trang chủ, bạn nhớ theo dõi ở đó nha."
+  },
+  {
+    "question": "Lịch thi có cập nhật tất cả các môn mình đăng ký không?",
+    "answer": "Có nha! Tất cả các học phần bạn đăng ký (trừ những môn ở trường Ngoại ngữ và Giáo dục thể chất) sẽ đều có lịch thi hiển thị trong mục 'Lịch thi kết thúc học phần'."
+  },
+  {
+    "question": "Nếu mình không thấy lịch thi của một môn nào đó thì phải làm sao?",
+    "answer": "Bạn thử kiểm tra lại xem học phần đó có thuộc Trường Đại học Ngoại ngữ hoặc Khoa Giáo dục Thể chất không. Nếu không phải, mà vẫn không thấy thì nên liên hệ với Phòng ĐTĐH&CTSV để được hỗ trợ nha."
+  },
+  {
+    "question": "Lịch thi có thể thay đổi không bạn?",
+    "answer": "Thỉnh thoảng có thể có thay đổi bạn nhé, đặc biệt là về thời gian hoặc phòng thi. Bạn nên theo dõi thường xuyên mục Lịch thi và cả phần Tin tức để nắm được thông tin mới nhất."
+  },
+  {
+    "question": "Mình muốn xem lại toàn bộ lịch sử học tập thì làm sao?",
+    "answer": "Bạn vào “Hỗ trợ hoạt động học tập” → “Lịch sử quá trình học” để xem chi tiết các học kỳ, môn đã học cũng như thông tin chung về ngành/chuyên ngành."
+  },
+  {
+    "question": "Làm thế nào để xem điểm chi tiết của từng học phần?",
+    "answer": "Trong mục “Lịch sử quá trình học”, bạn nhấn nút “Kết quả đánh giá học tập” để xem bảng điểm và điểm thành phần của từng môn."
+  },
+  {
+    "question": "Mục “Đối chiếu kết quả học tập với chương trình đào tạo” có tác dụng gì?",
+    "answer": "Tính năng này giúp bạn so sánh các môn đã tích lũy với danh mục học phần của CTĐT, từ đó biết môn nào đã đạt, môn nào cần học lại hoặc cải thiện."
+  },
+  {
+    "question": "Tại sao sinh viên năm 3 & 4 phải thường xuyên đối chiếu kết quả?",
+    "answer": "Do cận kề tốt nghiệp, bạn cần kịp thời bổ sung các học phần thiếu và cải thiện điểm để đảm bảo đầy đủ điều kiện về tín chỉ và điểm số khi ra trường."
+  },
+  {
+    "question": "Nếu phát hiện môn cần học lại hoặc cải thiện thì mình làm gì tiếp theo?",
+    "answer": "Bạn quay lại mục “Đăng ký học tập” để đăng ký học lại hoặc học cải thiện ngay trong kỳ tiếp theo, tránh lỡ thời hạn đăng ký."
+  },
+  {
+    "question": "Có cách nào xuất hoặc lưu lại bảng đối chiếu để lưu trữ không?",
+    "answer": "Hiện hệ thống chưa hỗ trợ xuất trực tiếp, nhưng bạn có thể chụp màn hình hoặc copy thông tin ra file riêng để theo dõi lâu dài."
+  },
+  {
+    "question": "Khi nào mình có thể nộp học phí trực tuyến?",
+    "answer": "Bạn chỉ nộp học phí trực tuyến được khi Nhà trường đã công bố thời gian thu trên mạng. Nếu chưa đến hạn, mục “Nộp học phí trực tuyến” vẫn bị khóa nha."
+  },
+  {
+    "question": "Mình vào đâu để bắt đầu nộp học phí trực tuyến?",
+    "answer": "Bạn vào “Học phí – Lệ phí” → “Nộp học phí trực tuyến”. Tại đây bạn sẽ thấy danh sách học phần, số tiền đã và phải nộp."
+  },
+  {
+    "question": "Bước tiếp theo sau khi xem danh sách là gì?",
+    "answer": "Bạn nhập mã bảo vệ rồi nhấn nút “Thanh toán học phí”. Hệ thống sẽ chuyển bạn sang cổng thanh toán của ngân hàng."
+  },
+  {
+    "question": "Làm sao chọn thanh toán qua VietinBank?",
+    "answer": "Khi sang trang ngân hàng, bạn nhấp vào logo VietinBank để tiếp tục qui trình thanh toán."
+  },
+  {
+    "question": "Nhập thông tin thẻ ATM VietinBank như thế nào?",
+    "answer": "Bạn nhập số thẻ ATM (liền nhau, không dấu cách), nhấn “Tiếp tục” rồi nhập mật khẩu dịch vụ, mã bảo vệ và tick “Tôi chấp nhận điều khoản thanh toán của VietinBank”, sau đó nhấn “OK”."
+  },
+  {
+    "question": "OTP là gì và mình nhập ở đâu?",
+    "answer": "Sau khi OK, VietinBank sẽ gửi OTP (mật khẩu dùng một lần) về số điện thoại bạn đăng ký. Bạn nhập đúng OTP đó vào ô rồi nhấn “Thanh toán” để hoàn tất."
+  },
+  {
+    "question": "Nếu không nhận được OTP hoặc nhập sai thì sao?",
+    "answer": "Nếu không nhận OTP bạn gọi lên tổng đài VietinBank hỗ trợ. Nếu nhập sai nhiều lần, hệ thống sẽ huỷ giao dịch, bạn phải bắt đầu lại từ đầu."
+  },
+  {
+    "question": "Mình muốn xem lại tất cả lần nộp học phí thì vào đâu?",
+    "answer": "Bạn vào “Học phí – Lệ phí” → “Tra cứu lịch sử nộp học phí” để xem danh sách các lần bạn đã nộp."
+  },
+  {
+    "question": "Trong mục lịch sử nộp học phí có hiển thị những thông tin gì?",
+    "answer": "Hệ thống sẽ cho bạn thấy ngày nộp, số tiền đã đóng, trạng thái giao dịch (thành công/không thành công) và thông báo kết quả."
+  },
+  {
+    "question": "Muốn xem chi tiết một lần nộp cụ thể thì làm sao?",
+    "answer": "Bạn bấm vào nút ở cột cuối cùng tương ứng với lần nộp để xem chi tiết giao dịch, bao gồm mã giao dịch và thông tin ngân hàng."
+  },
+  {
+    "question": "Nếu không thấy lịch sử giao dịch của mình thì phải làm gì?",
+    "answer": "Bạn kiểm tra lại xem đã chờ đủ thời gian phản hồi từ ngân hàng chưa (khoảng 5–10 phút). Nếu vẫn không có, bạn liên hệ Phòng ĐTĐH&CTSV hoặc ngân hàng để kiểm tra giúp nhé."
+  },
+  {
+    "question": "Có thể xuất hoặc in lịch sử nộp học phí không bạn?",
+    "answer": "Hệ thống chưa hỗ trợ xuất trực tiếp, nhưng bạn có thể chụp màn hình hoặc in trang lịch sử ra file PDF để lưu trữ."
+  }
+]
+
+
+
+
+
+
+
+
+
+
+
+
+

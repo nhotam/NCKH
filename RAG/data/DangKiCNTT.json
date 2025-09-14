@@ -1,0 +1,517 @@
+[
+  {
+    "question": "Cô Lê Nguyễn Thủy Nhi dạy những nhóm nào môn Nhập môn lập trình?",
+    "answer": "Cô Lê Nguyễn Thủy Nhi dạy Nhập môn lập trình cho 4 nhóm: nhóm 1, nhóm 2, nhóm 3 và nhóm 4. Các nhóm này học xen kẽ giữa phòng lý thuyết (E302, E303, E306) và phòng Lab (E401, E402, E501) vào các buổi cố định trong tuần."
+  },
+  {
+    "question": "Thầy Võ Văn Thành có dạy Nhập môn lập trình không?",
+    "answer": "Có, thầy Võ Văn Thành dạy Nhập môn lập trình cho nhóm 5. Nhóm này học thứ 5 tiết 5-7, xen kẽ giữa phòng E302 và phòng Lab E401."
+  },
+  {
+    "question": "Thầy Lê Quang Chiến phụ trách nhóm nào môn Nhập môn lập trình?",
+    "answer": "Thầy Lê Quang Chiến dạy Nhập môn lập trình cho nhóm 6. Nhóm này học thứ 6 tiết 5-7, xen kẽ giữa phòng E306 và phòng Lab E501."
+  },
+  {
+    "question": "Thầy Trần Việt Khoa dạy Nhập môn lập trình thế nào?",
+    "answer": "Thầy Trần Việt Khoa dạy Nhập môn lập trình cho 2 nhóm: nhóm 7 và nhóm 8. Các nhóm này học vào thứ 2 và thứ 4 tiết 5-7, xen kẽ giữa phòng E302 và phòng Lab E401/E402."
+  },
+  {
+    "question": "Thầy Bùi Văn Chiến có phụ trách nhóm nào môn Nhập môn lập trình?",
+    "answer": "Thầy Bùi Văn Chiến dạy Nhập môn lập trình cho 2 nhóm: nhóm 9 và nhóm 10. Nhóm 9 học thứ 2 tiết 5-7 ở phòng E303/E402, nhóm 10 học thứ 2 tiết 1-3 tại phòng E302/E401."
+  },
+  {
+    "question": "Thầy Nguyễn Quang Hưng dạy Nhập môn lập trình ra sao?",
+    "answer": "Thầy Nguyễn Quang Hưng dạy Nhập môn lập trình cho 2 nhóm: nhóm 11 và nhóm 12. Nhóm 11 học thứ 5 tiết 1-3 ở phòng E301/E401, còn nhóm 12 học thứ 3 tiết 5-7 tại phòng Lab B204."
+  },
+  {
+    "question": "Thầy Lê Hữu Bình dạy những nhóm nào môn Nhập môn lập trình?",
+    "answer": "Thầy Lê Hữu Bình dạy Nhập môn lập trình cho 3 nhóm: nhóm 13, nhóm 14 và nhóm 15. Các nhóm này học thứ 2 hoặc thứ 5, xen kẽ giữa phòng E301/E302 và phòng Lab E401."
+  },
+
+
+
+
+  
+  {
+    "question": "Thầy Lê Quang Chiến dạy nhóm nào môn Lập trình Python?",
+    "answer": "Thầy Lê Quang Chiến dạy môn Lập trình Python cho nhóm 1. Nhóm này học thứ 2, tiết 1-3 tại phòng B202 - Lab."
+  },
+  {
+    "question": "Cô Đoàn Thị Hồng Phước có dạy Lập trình Python không bạn?",
+    "answer": "Có nhé, cô Đoàn Thị Hồng Phước dạy môn Lập trình Python cho nhóm 2. Nhóm này học thứ 7, tiết 1-3 ở phòng E401 - Lab."
+  },
+  {
+    "question": "Cô Hồ Thị Kim Thoa phụ trách những nhóm nào môn Lập trình Python?",
+    "answer": "Cô Hồ Thị Kim Thoa dạy 2 nhóm môn Lập trình Python: nhóm 3 và nhóm 14. Nhóm 3 học thứ 2 tiết 9-11 ở phòng E401 - Lab, còn nhóm 14 học thứ 4 tiết 9-11 cũng tại phòng E401 - Lab."
+  },
+  {
+    "question": "Cô Nguyễn Ngọc Thủy dạy bao nhiêu nhóm Lập trình Python vậy?",
+    "answer": "Cô Nguyễn Ngọc Thủy phụ trách 2 nhóm môn Lập trình Python: nhóm 4 và nhóm 5. Nhóm 4 học thứ 7 tiết 1-3 ở phòng E402 - Lab, còn nhóm 5 học thứ 2 tiết 1-3 tại phòng B204 - Lab."
+  },
+  {
+    "question": "Cô Khổng Thị Thu Thảo có tham gia dạy môn Lập trình Python không?",
+    "answer": "Có nha, cô Khổng Thị Thu Thảo dạy nhóm 6 môn Lập trình Python. Nhóm này học thứ 4, tiết 1-3 tại phòng E501 - Lab."
+  },
+  {
+    "question": "Thầy Nguyễn Hoàng Sơn dạy những nhóm nào môn Lập trình Python?",
+    "answer": "Thầy Nguyễn Hoàng Sơn phụ trách 3 nhóm môn Lập trình Python: nhóm 7, nhóm 8 và nhóm 9. Nhóm 7 học thứ 6 tiết 1-3 ở phòng E501 - Lab, nhóm 8 học thứ 2 tiết 1-3 ở phòng E501 - Lab, còn nhóm 9 học thứ 5 tiết 1-3 tại phòng E402 - Lab."
+  },
+  {
+    "question": "Thầy Bùi Quang Vũ có dạy Lập trình Python không, lịch học thế nào?",
+    "answer": "Thầy Bùi Quang Vũ dạy 2 nhóm môn Lập trình Python: nhóm 10 và nhóm 11. Nhóm 10 học thứ 4 tiết 5-7 ở phòng E405 - Lab, nhóm 11 học thứ 3 tiết 5-7 cũng tại phòng E405 - Lab."
+  },
+  {
+    "question": "Thầy Trần Duy Anh phụ trách nhóm nào môn Lập trình Python?",
+    "answer": "Thầy Trần Duy Anh dạy 2 nhóm môn Lập trình Python: nhóm 12 và nhóm 13. Nhóm 12 học thứ 2 tiết 1-3 tại phòng E405 - Lab, còn nhóm 13 học thứ 3 tiết 5-7 ở phòng E502 - Lab."
+  },
+
+
+
+  
+  {
+    "question": "Thầy Đặng Thanh Chương dạy môn Kiến trúc máy tính như thế nào?",
+    "answer": "Thầy Đặng Thanh Chương phụ trách môn Kiến trúc máy tính cho nhóm 1. Nhóm này học vào thứ 4, tiết 5-7 tại phòng F202."
+  },
+
+
+
+
+
+
+  {
+    "question": "Thầy Trần Việt Khoa có dạy môn Ngôn ngữ lập trình không?",
+    "answer": "Có nhé, thầy Trần Việt Khoa phụ trách nhóm 1 môn Ngôn ngữ lập trình. Nhóm này học thứ 3, tiết 5-7 tại phòng H108."
+  },
+
+
+
+
+  
+  {
+    "question": "Thầy Trần Việt Khoa có dạy môn Kỹ thuật lập trình không bạn?",
+    "answer": "Có nhé, thầy Trần Việt Khoa dạy môn Kỹ thuật lập trình cho nhóm 1. Nhóm này học thứ 7, tiết 7-8 tại phòng B202 - Lab."
+  },
+
+
+
+  
+  {
+    "question": "Thầy Bùi Văn Hiếu dạy môn gì và những nhóm nào?",
+    "answer": "Thầy Bùi Văn Hiếu dạy môn Toán học rời rạc cho 1 nhóm: Nhóm 1 học thứ 2 tiết 1-3 ở phòng F202."
+  },
+  {
+    "question": "Thầy Võ Quang Mẫn phụ trách những nhóm nào môn Toán học rời rạc?",
+    "answer": "Thầy Võ Quang Mẫn dạy môn Toán học rời rạc cho 2 nhóm: Nhóm 2 học thứ 4 tiết 1-3 ở phòng F202 và nhóm 3 học thứ 2 tiết 1-3 ở phòng F302."
+  },
+  {
+    "question": "Thầy Nguyễn Văn Sơn dạy môn Toán học rời rạc thế nào?",
+    "answer": "Thầy Nguyễn Văn Sơn dạy môn Toán học rời rạc cho 2 nhóm: Nhóm 4 học thứ 6 tiết 1-3 ở phòng F302 và nhóm 5 học thứ 4 tiết 1-3 tại phòng F302."
+  },
+  {
+    "question": "Cô Nguyễn Thị Bích Lộc có dạy những nhóm nào môn Toán học rời rạc?",
+    "answer": "Cô Nguyễn Thị Bích Lộc dạy môn Toán học rời rạc cho 3 nhóm: Nhóm 6 học thứ 6 tiết 1-3 ở phòng F202, nhóm 7 học thứ 3 tiết 5-7 tại phòng F202, và nhóm 8 học thứ 2 tiết 5-7 ở phòng F202."
+  },
+  {
+    "question": "Thầy Trần Duy Anh phụ trách môn Toán học rời rạc như thế nào?",
+    "answer": "Thầy Trần Duy Anh dạy môn Toán học rời rạc cho 2 nhóm: Nhóm 9 học thứ 7 tiết 1-3 ở phòng E302 và nhóm 10 học thứ 6 tiết 1-3 tại phòng E303."
+  },
+  {
+    "question": "Thầy Trần Việt Khoa dạy Toán học rời rạc cho những nhóm nào?",
+    "answer": "Thầy Trần Việt Khoa dạy môn Toán học rời rạc cho 2 nhóm: Nhóm 11 học thứ 4 tiết 1-3 ở phòng E301 và nhóm 12 học thứ 6 tiết 1-3 tại phòng E201."
+  },
+
+
+  
+  {
+    "question": "Thầy Nguyễn Văn Trung dạy môn Phân tích và thiết kế các hệ thống thông tin thế nào?",
+    "answer": "Thầy Nguyễn Văn Trung dạy môn Phân tích và thiết kế các hệ thống thông tin cho 4 nhóm: nhóm 1, nhóm 2, nhóm 3 và nhóm 4. Nhóm 1 học thứ 6 tiết 1-4 ở phòng E404, nhóm 2 học thứ 2 tiết 5-8 tại phòng F301, nhóm 3 học thứ 5 tiết 5-8 ở phòng E304, và nhóm 4 học thứ 6 tiết 5-8 tại phòng E303."
+  },
+  {
+    "question": "Thầy Nguyễn Thanh Tuấn phụ trách những nhóm nào môn Phân tích và thiết kế các hệ thống thông tin?",
+    "answer": "Thầy Nguyễn Thanh Tuấn dạy môn Phân tích và thiết kế các hệ thống thông tin cho 3 nhóm: nhóm 5, nhóm 6 và nhóm 7. Nhóm 5 học thứ 3 tiết 1-4 ở phòng F302, nhóm 6 học thứ 7 tiết 1-4 tại phòng E301, và nhóm 7 học thứ 5 tiết 1-4 ở phòng E304."
+  },
+  {
+    "question": "Cô Phan Nguyễn Ý Nhi dạy Phân tích và thiết kế các hệ thống thông tin ra sao?",
+    "answer": "Cô Phan Nguyễn Ý Nhi dạy môn Phân tích và thiết kế các hệ thống thông tin cho 3 nhóm: nhóm 8, nhóm 9 và nhóm 10. Nhóm 8 học thứ 2 tiết 9-12 ở phòng E302, nhóm 9 học thứ 5 tiết 9-12 tại phòng E306, và nhóm 10 học thứ 4 tiết 9-12 ở phòng F102."
+  },
+
+
+
+
+
+    
+  {
+    "question": "Thầy Hoàng Quang dạy môn gì và những nhóm nào?",
+    "answer": "Thầy Hoàng Quang dạy môn Nhập môn cơ sở dữ liệu cho 1 nhóm: Nhóm 1 học thứ 2 tiết 5-6 ở phòng E301."
+  },
+
+
+
+
+   {
+    "question": "Thầy Trần Nguyên Phong dạy môn gì và những nhóm nào?",
+    "answer": "Thầy Trần Nguyên Phong dạy môn Hệ quản trị cơ sở dữ liệu cho 2 nhóm: nhóm 1 và nhóm 2. Nhóm 1 học thứ 2 tiết 1-4 ở phòng E303, nhóm 2 học thứ 5 tiết 1-4 cũng tại phòng E303."
+  },
+  {
+    "question": "Cô Trần Thị Phương Chi phụ trách môn Hệ quản trị cơ sở dữ liệu thế nào?",
+    "answer": "Cô Trần Thị Phương Chi dạy môn Hệ quản trị cơ sở dữ liệu cho 4 nhóm: nhóm 3, nhóm 4, nhóm 5 và nhóm 6. Nhóm 3 học thứ 3 tiết 1-4 ở phòng E302, nhóm 4 học thứ 4 tiết 1-4 tại phòng E302, nhóm 5 học thứ 6 tiết 1-4 cũng ở phòng E302, và nhóm 6 học thứ 2 tiết 5-8 tại phòng E306."
+  },
+  {
+    "question": "Thầy Lê Văn Hòa (1984) dạy những nhóm nào môn Hệ quản trị cơ sở dữ liệu?",
+    "answer": "Thầy Lê Văn Hòa (1984) dạy môn Hệ quản trị cơ sở dữ liệu cho 3 nhóm: nhóm 7, nhóm 8 và nhóm 9. Nhóm 7 học thứ 3 tiết 1-4 ở phòng E501 - Lab, nhóm 8 học thứ 5 tiết 1-4 tại phòng E501 - Lab, và nhóm 9 học thứ 4 tiết 5-8 cũng ở phòng E501 - Lab."
+  },
+  {
+    "question": "Thầy Sử Minh Đạt dạy môn Hệ quản trị cơ sở dữ liệu thế nào?",
+    "answer": "Thầy Sử Minh Đạt dạy môn Hệ quản trị cơ sở dữ liệu cho 3 nhóm: nhóm 10, nhóm 11 và nhóm 12. Nhóm 10 học thứ 2 tiết 1-4 ở phòng F201, nhóm 11 học thứ 5 tiết 1-4 cũng tại phòng F201, và nhóm 12 học thứ 3 tiết 5-8 ở phòng F201."
+  },
+
+
+
+
+
+  {
+    "question": "Thầy Trần Nguyên Phong dạy môn gì và những nhóm nào?",
+    "answer": "Thầy Trần Nguyên Phong dạy môn Các hệ quản trị cơ sở dữ liệu cho 2 nhóm: nhóm 1 và nhóm 2. Nhóm 1 học thứ 4 tiết 1-3 ở phòng E405 - Lab, còn nhóm 2 học thứ 3 tiết 1-3 tại phòng E502 - Lab."
+  },
+  {
+    "question": "Cô Trần Thị Phương Chi phụ trách môn Các hệ quản trị cơ sở dữ liệu thế nào?",
+    "answer": "Cô Trần Thị Phương Chi dạy môn Các hệ quản trị cơ sở dữ liệu cho 2 nhóm: nhóm 3 và nhóm 4. Nhóm 3 học thứ 4 tiết 6-8 ở phòng E502 - Lab, còn nhóm 4 học thứ 5 tiết 5-7 tại phòng E405 - Lab."
+  },
+  {
+    "question": "Thầy Lê Văn Hòa (1984) dạy những nhóm nào môn Các hệ quản trị cơ sở dữ liệu?",
+    "answer": "Thầy Lê Văn Hòa (1984) dạy môn Các hệ quản trị cơ sở dữ liệu cho 3 nhóm: nhóm 5, nhóm 6 và nhóm 7. Nhóm 5 học thứ 2 tiết 9-11 ở phòng E501 - Lab, nhóm 6 học thứ 3 tiết 9-11 tại phòng E501 - Lab, và nhóm 7 học thứ 5 tiết 9-11 cũng ở phòng E501 - Lab."
+  },
+  {
+    "question": "Thầy Sử Minh Đạt dạy môn Các hệ quản trị cơ sở dữ liệu thế nào?",
+    "answer": "Thầy Sử Minh Đạt dạy môn Các hệ quản trị cơ sở dữ liệu cho 2 nhóm: nhóm 8 và nhóm 9. Nhóm 8 học thứ 5 tiết 9-11 ở phòng E401 - Lab, còn nhóm 9 học thứ 6 tiết 9-11 cũng tại phòng E401 - Lab."
+  },
+  {
+    "question": "Thầy Nguyễn Công Hào phụ trách môn Các hệ quản trị cơ sở dữ liệu ra sao?",
+    "answer": "Thầy Nguyễn Công Hào dạy môn Các hệ quản trị cơ sở dữ liệu cho 2 nhóm: nhóm 10 và nhóm 11. Nhóm 10 học thứ 7 tiết 1-3 ở phòng E403 - Lab, còn nhóm 11 học thứ 6 tiết 1-3 cũng tại phòng E403 - Lab."
+  },
+
+  
+
+   {
+    "question": "Thầy Ngô Nhân Đức dạy môn Lập trình hướng đối tượng những nhóm nào?",
+    "answer": "Thầy Ngô Nhân Đức dạy môn Lập trình hướng đối tượng cho 2 nhóm: nhóm 1 và nhóm 2. Nhóm 1 học thứ 6 tiết 1-3 ở phòng E402 - Lab, nhóm 2 học thứ 5 tiết 1-3 tại phòng E502 - Lab."
+  },
+  {
+    "question": "Cô Đoàn Thị Hồng Phước dạy nhóm nào môn Lập trình hướng đối tượng?",
+    "answer": "Cô Đoàn Thị Hồng Phước phụ trách nhóm 3 môn Lập trình hướng đối tượng. Nhóm này học thứ 3 tiết 1-3 tại phòng E503 - Lab."
+  },
+  {
+    "question": "Thầy Nguyễn Đăng Bình dạy môn Lập trình hướng đối tượng ra sao?",
+    "answer": "Thầy Nguyễn Đăng Bình phụ trách nhóm 4 và nhóm 5 môn Lập trình hướng đối tượng. Nhóm 4 học thứ 6 tiết 5-7 ở phòng E401 - Lab, nhóm 5 học thứ 7 tiết 5-7 tại phòng E401 - Lab."
+  },
+  {
+    "question": "Thầy Trương Công Tuấn dạy những nhóm nào môn Lập trình hướng đối tượng?",
+    "answer": "Thầy Trương Công Tuấn dạy nhóm 6 và nhóm 7. Nhóm 6 học thứ 2 tiết 1-3 tại phòng E403 - Lab, nhóm 7 học thứ 3 tiết 1-3 cũng ở phòng E403 - Lab."
+  },
+  {
+    "question": "Cô Trần Thanh Lương dạy những nhóm nào môn Lập trình hướng đối tượng?",
+    "answer": "Cô Trần Thanh Lương phụ trách nhóm 8 và nhóm 9 môn Lập trình hướng đối tượng. Nhóm 8 học thứ 4 tiết 1-3 tại phòng E402 - Lab, nhóm 9 học thứ 4 tiết 9-11 cũng ở phòng E402 - Lab."
+  },
+  {
+    "question": "Cô Trần Thị Minh Thảo dạy những nhóm nào môn Lập trình hướng đối tượng?",
+    "answer": "Cô Trần Thị Minh Thảo dạy nhóm 10, nhóm 11 và nhóm 12 môn Lập trình hướng đối tượng. Nhóm 10 học thứ 3 tiết 1-3 tại phòng F202, nhóm 11 học thứ 5 tiết 1-3 ở phòng F202, và nhóm 12 học thứ 7 tiết 1-3 tại phòng F302."
+  },
+
+
+
+
+  {
+    "question": "Thầy Nguyễn Đăng Bình dạy môn Đồ họa máy tính những nhóm nào?",
+    "answer": "Thầy Nguyễn Đăng Bình phụ trách nhóm 1, nhóm 2 và nhóm 3 môn Đồ họa máy tính. Nhóm 1 học thứ 2 tiết 5-7 tại phòng F302, nhóm 2 học thứ 2 tiết 1-3 ở phòng E304, và nhóm 3 học thứ 4 tiết 1-3 tại phòng E306."
+  },
+  {
+    "question": "Thầy Nguyễn Thế Dũng dạy môn Đồ họa máy tính ra sao?",
+    "answer": "Thầy Nguyễn Thế Dũng phụ trách nhóm 4, nhóm 5 và nhóm 6 môn Đồ họa máy tính. Nhóm 4 học thứ 7 tiết 5-7 tại phòng E303, nhóm 5 học thứ 7 tiết 1-3 ở phòng E303, và nhóm 6 học thứ 6 tiết 9-11 tại phòng F102."
+  },
+
+
+
+   {
+    "question": "Cô Nguyễn Ngọc Thủy dạy môn An ninh mạng những nhóm nào?",
+    "answer": "Cô Nguyễn Ngọc Thủy phụ trách nhóm 1 và nhóm 3 môn An ninh mạng. Nhóm 1 học thứ 5 tiết 1-3 tại phòng E405 - Lab, còn nhóm 3 học thứ 4 tiết 5-7 tại phòng E505 - Lab."
+  },
+  {
+    "question": "Thầy Võ Việt Dũng dạy môn An ninh mạng ra sao?",
+    "answer": "Thầy Võ Việt Dũng phụ trách nhóm 2 môn An ninh mạng. Lịch học là thứ 2 tiết 1-3 tại phòng E503 - Lab."
+  },
+
+
+
+
+  {
+    "question": "Thầy Trần Nguyên Phong dạy môn Lập trình Front-End như thế nào?",
+    "answer": "Thầy Trần Nguyên Phong phụ trách các nhóm 1, 2, 3 và 4 môn Lập trình Front-End. Nhóm 1 học thứ 3 tiết 5-7 tại phòng E401 - Lab, nhóm 2 học thứ 4 tiết 5-7 tại phòng E401 - Lab, nhóm 3 học thứ 2 tiết 5-7 tại phòng E403 - Lab và nhóm 4 học thứ 5 tiết 5-7 tại phòng E403 - Lab."
+  },
+  {
+    "question": "Thầy Võ Văn Thành dạy môn Lập trình Front-End ra sao?",
+    "answer": "Thầy Võ Văn Thành phụ trách các nhóm 5, 6, 7, 8 và 9 môn Lập trình Front-End. Cụ thể: nhóm 5 học thứ 4 tiết 5-7 tại phòng E403 - Lab, nhóm 6 học thứ 7 tiết 5-7 tại phòng E501 - Lab, nhóm 7 học thứ 6 tiết 1-3 tại phòng E401 - Lab, nhóm 8 học thứ 3 tiết 1-3 tại phòng E401 - Lab và nhóm 9 học thứ 2 tiết 1-3 tại phòng E402 - Lab."
+  },
+  {
+    "question": "Cô Nguyễn Thị Kiều Nga dạy môn Lập trình Front-End thế nào?",
+    "answer": "Cô Nguyễn Thị Kiều Nga phụ trách nhóm 10 và nhóm 11 môn Lập trình Front-End. Nhóm 10 học thứ 3 tiết 5-7 tại phòng E403 - Lab và nhóm 11 học thứ 5 tiết 5-7 tại phòng E402 - Lab."
+  },
+  {
+    "question": "Cô Lê Thị Thanh Tâm dạy môn Lập trình Front-End ở nhóm nào?",
+    "answer": "Cô Lê Thị Thanh Tâm phụ trách nhóm 12 và nhóm 13 môn Lập trình Front-End. Nhóm 12 học thứ 4 tiết 1-3 tại phòng E401 - Lab và nhóm 13 học thứ 3 tiết 1-3 tại phòng E402 - Lab."
+  },
+
+
+
+   {
+    "question": "Thầy Nguyễn Hoàng Hà dạy môn Java nâng cao như thế nào?",
+    "answer": "Thầy Nguyễn Hoàng Hà phụ trách các nhóm 1, 2, 3, 4, 5 và 6 môn Java nâng cao. Cụ thể: nhóm 1 học thứ 6 tiết 5-7 tại phòng E403 - Lab, nhóm 2 học thứ 2 tiết 5-7 tại phòng E503 - Lab, nhóm 3 học thứ 3 tiết 5-7 tại phòng E503 - Lab, nhóm 4 học thứ 4 tiết 1-3 tại phòng E503 - Lab, nhóm 5 học thứ 4 tiết 5-7 tại phòng E503 - Lab và nhóm 6 học thứ 6 tiết 1-3 tại phòng E405 - Lab."
+  },
+  {
+    "question": "Thầy Huỳnh Bảo Quốc Dũng dạy môn Java nâng cao ra sao?",
+    "answer": "Thầy Huỳnh Bảo Quốc Dũng phụ trách các nhóm 7, 8 và 9 môn Java nâng cao. Trong đó: nhóm 7 học thứ 6 tiết 5-7 tại phòng E405 - Lab, nhóm 8 học thứ 7 tiết 1-3 tại phòng E501 - Lab và nhóm 9 học thứ 7 tiết 5-7 tại phòng E402 - Lab."
+  },
+
+
+
+
+
+   {
+    "question": "Thầy Võ Thanh Tú dạy môn Phân tích kiến trúc và thiết kế mạng như thế nào?",
+    "answer": "Thầy Võ Thanh Tú phụ trách cả 2 nhóm môn Phân tích kiến trúc và thiết kế mạng. Nhóm 1 học vào thứ 4 tiết 1-3 tại phòng B303, còn nhóm 2 học vào thứ 3 tiết 1-3 cũng tại phòng B303."
+  },
+
+
+
+
+   {
+    "question": "Thầy Nguyễn Lê Trung Thành dạy môn Phần mềm mã nguồn mở như thế nào?",
+    "answer": "Thầy Nguyễn Lê Trung Thành phụ trách 2 nhóm môn Phần mềm mã nguồn mở. Nhóm 1 học vào thứ 6 tiết 9-11 tại phòng E201, còn nhóm 2 học vào thứ 2 tiết 9-11 cũng tại phòng E201."
+  },
+  {
+    "question": "Thầy Hồ Quốc Dũng dạy môn Phần mềm mã nguồn mở ra sao?",
+    "answer": "Thầy Hồ Quốc Dũng dạy 2 nhóm môn Phần mềm mã nguồn mở. Nhóm 3 học vào thứ 4 tiết 1-3 tại phòng E303, và nhóm 4 học vào thứ 6 tiết 1-3 tại phòng E304."
+  },
+
+
+
+   {
+    "question": "Thầy Hoàng Quang dạy môn Phân tích và thiết kế thuật toán thế nào?",
+    "answer": "Thầy Hoàng Quang phụ trách môn Phân tích và thiết kế thuật toán cho nhóm 1. Lớp học diễn ra vào thứ 6 tiết 1-3 tại phòng F102."
+  },
+
+
+
+  {
+    "question": "Thầy Nguyễn Đức Nhuận dạy môn Độ phức tạp thuật toán thế nào?",
+    "answer": "Thầy Nguyễn Đức Nhuận phụ trách môn Độ phức tạp thuật toán cho nhóm 1. Lớp học diễn ra vào thứ 2 tiết 5-7 tại phòng H303."
+  },
+
+
+
+
+    {
+    "question": "Thầy Lê Văn Tường Lân dạy môn Kiểm định phần mềm thế nào?",
+    "answer": "Thầy Lê Văn Tường Lân dạy môn Kiểm định phần mềm cho 2 nhóm: nhóm 1 và nhóm 2. Nhóm 1 học thứ 7 tiết 2-4 tại phòng H402, còn nhóm 2 học thứ 3 tiết 9-11 cũng ở phòng H402."
+  },
+  {
+    "question": "Cô Lê Nguyễn Thủy Nhi phụ trách những nhóm nào môn Kiểm định phần mềm?",
+    "answer": "Cô Lê Nguyễn Thủy Nhi dạy môn Kiểm định phần mềm cho 2 nhóm: nhóm 3 và nhóm 4. Nhóm 3 học thứ 2 tiết 1-3 tại phòng H402, còn nhóm 4 học thứ 7 tiết 5-7 ở phòng E504."
+  },
+
+
+
+
+  {
+    "question": "Thầy Đặng Thanh Chương dạy nhóm nào môn Đánh giá hiệu năng mạng?",
+    "answer": "Thầy Đặng Thanh Chương dạy môn Đánh giá hiệu năng mạng cho nhóm 1. Lịch học là thứ 6 tiết 1-3 tại phòng E503 - Lab."
+  },
+
+
+
+
+    {
+    "question": "Thầy Võ Thanh Tú dạy nhóm nào môn Kỹ thuật truyền dữ liệu?",
+    "answer": "Thầy Võ Thanh Tú dạy môn Kỹ thuật truyền dữ liệu cho nhóm 1. Lịch học là thứ 5 tiết 1-3 tại phòng B306."
+  },
+
+
+
+  {
+    "question": "Cô Nguyễn Ngọc Thủy dạy những nhóm nào môn An toàn mạng?",
+    "answer": "Cô Nguyễn Ngọc Thủy dạy môn An toàn mạng cho 2 nhóm: nhóm 1 và nhóm 2. Nhóm 1 học thứ 4 tiết 1-3 tại phòng E505 - Lab, nhóm 2 học thứ 3 tiết 1-3 cũng tại phòng E505 - Lab."
+  },
+
+
+
+
+  {
+    "question": "Thầy Nguyễn Hoàng Hà dạy nhóm nào môn Lập trình phân tán?",
+    "answer": "Thầy Nguyễn Hoàng Hà dạy môn Lập trình phân tán cho nhóm 1. Nhóm này học thứ 2 tiết 9-11 tại phòng E402 - Lab."
+  },
+  {
+    "question": "Thầy Đỗ Xuân Huyền phụ trách những nhóm nào môn Lập trình phân tán?",
+    "answer": "Thầy Đỗ Xuân Huyền dạy môn Lập trình phân tán cho 3 nhóm: nhóm 2, nhóm 3 và nhóm 4. Nhóm 2 học thứ 4 tiết 9-11 tại phòng E403 - Lab, nhóm 3 học thứ 3 tiết 9-11 tại phòng E401 - Lab, và nhóm 4 học thứ 7 tiết 1-3 tại phòng E405 - Lab."
+  },
+
+
+
+
+  {
+    "question": "Thầy Võ Thanh Tú dạy nhóm nào môn Các vấn đề hiện đại của truyền thông và mạng máy tính?",
+    "answer": "Thầy Võ Thanh Tú dạy môn Các vấn đề hiện đại của truyền thông và mạng máy tính cho nhóm 1. Lịch học là thứ 2 tiết 1-3 tại phòng B306."
+  },
+
+
+
+
+     {
+    "question": "Thầy Nguyễn Dũng dạy môn Lập trình ứng dụng cho các thiết bị di động cho những nhóm nào vậy?",
+    "answer": "Thầy Nguyễn Dũng dạy môn Lập trình ứng dụng cho các thiết bị di động cho 6 nhóm: nhóm 1, nhóm 2, nhóm 3, nhóm 4, nhóm 5 và nhóm 6. Nhóm 1 học thứ 2 tiết 1-3 ở phòng E502 - Lab, nhóm 2 học thứ 4 tiết 1-3 ở phòng E502 - Lab, nhóm 3 học thứ 6 tiết 1-3 ở phòng E502 - Lab, nhóm 4 học thứ 3 tiết 1-3 ở phòng E405 - Lab, nhóm 5 học thứ 5 tiết 5-7 ở phòng E502 - Lab, và nhóm 6 học thứ 2 tiết 5-7 ở phòng E502 - Lab."
+  },
+  {
+    "question": "Thầy Võ Việt Dũng phụ trách những nhóm nào môn Lập trình ứng dụng cho các thiết bị di động?",
+    "answer": "Thầy Võ Việt Dũng dạy môn Lập trình ứng dụng cho các thiết bị di động cho 2 nhóm: nhóm 7 và nhóm 8. Nhóm 7 học thứ 5 tiết 1-3 ở phòng E503 - Lab, nhóm 8 học thứ 6 tiết 5-7 ở phòng E402 - Lab."
+  },
+
+
+
+
+   {
+    "question": "Thầy Nguyễn Văn Trung dạy nhóm 1 môn Web ngữ nghĩa khi nào và ở đâu?",
+    "answer": "Nhóm 1 môn Web ngữ nghĩa do thầy Nguyễn Văn Trung phụ trách. Lịch học là thứ 3 tiết 1-3 tại phòng B306."
+  },
+
+
+
+  
+  {
+    "question": "Thầy Nguyễn Văn Trung dạy những nhóm nào môn Phát triển ứng dụng Desktop?",
+    "answer": "Thầy Nguyễn Văn Trung dạy môn Phát triển ứng dụng Desktop các nhóm 1, 2, 3 và 4. Lịch học: Nhóm 1 (thứ 7 tiết 5-7, B203 - Lab), Nhóm 2 (thứ 4 tiết 1-3, E403 - Lab), Nhóm 3 (thứ 5 tiết 1-3, E403 - Lab), Nhóm 4 (thứ 3 tiết 5-7, E501 - Lab)."
+  },
+
+
+
+  {
+    "question": "Thầy Đặng Thanh Chương dạy những nhóm nào môn Mạng truyền dẫn quang?",
+    "answer": "Thầy Đặng Thanh Chương dạy môn Mạng truyền dẫn quang các nhóm 1 và 2. Lịch học: Nhóm 1 (thứ 5 tiết 5-7, B303) và Nhóm 2 (thứ 2 tiết 5-7, B303)."
+  },
+
+
+
+   {
+    "question": "Thầy Nguyễn Văn Trung dạy nhóm nào môn Xây dựng ứng dụng với .NET Framework?",
+    "answer": "Thầy Nguyễn Văn Trung dạy môn Xây dựng ứng dụng với .NET Framework nhóm 1. Lịch học: Nhóm 1 (thứ 4 tiết 5-7, B305)."
+  },
+
+
+  
+
+
+  {
+    "question": "Thầy Nguyễn Văn Trung dạy những nhóm nào môn Đồ án công nghệ phần mềm?",
+    "answer": "Thầy Nguyễn Văn Trung dạy môn Đồ án công nghệ phần mềm nhóm 1 và 2. Lịch học: Nhóm 1 (chủ nhật tiết 2), Nhóm 2 (chủ nhật tiết 1)."
+  },
+  {
+    "question": "Thầy Nguyễn Hoàng Hà dạy những nhóm nào môn Đồ án công nghệ phần mềm?",
+    "answer": "Thầy Nguyễn Hoàng Hà dạy môn Đồ án công nghệ phần mềm nhóm 3 và 4. Lịch học: Nhóm 3 (chủ nhật tiết 2), Nhóm 4 (chủ nhật tiết 1)."
+  },
+  {
+    "question": "Thầy Trần Nguyên Phong dạy những nhóm nào môn Đồ án công nghệ phần mềm?",
+    "answer": "Thầy Trần Nguyên Phong dạy môn Đồ án công nghệ phần mềm nhóm 5 và 6. Lịch học: Nhóm 5 (chủ nhật tiết 2), Nhóm 6 (chủ nhật tiết 1)."
+  },
+  {
+    "question": "Thầy Nguyễn Dũng dạy những nhóm nào môn Đồ án công nghệ phần mềm?",
+    "answer": "Thầy Nguyễn Dũng dạy môn Đồ án công nghệ phần mềm nhóm 7 và 8. Lịch học: Nhóm 7 (chủ nhật tiết 2), Nhóm 8 (chủ nhật tiết 1)."
+  },
+  {
+    "question": "Cô Lê Nguyễn Thủy Nhi dạy những nhóm nào môn Đồ án công nghệ phần mềm?",
+    "answer": "Cô Lê Nguyễn Thủy Nhi dạy môn Đồ án công nghệ phần mềm nhóm 9 và 10. Lịch học: Nhóm 9 (chủ nhật tiết 2), Nhóm 10 (chủ nhật tiết 1)."
+  },
+  {
+    "question": "Thầy Võ Văn Thành dạy nhóm nào môn Đồ án công nghệ phần mềm?",
+    "answer": "Thầy Võ Văn Thành dạy môn Đồ án công nghệ phần mềm nhóm 11. Lịch học: Nhóm 11 (chủ nhật tiết 1)."
+  },
+
+
+
+
+   {
+    "question": "Thầy Hồ Quốc Dũng dạy nhóm nào môn Dữ liệu lớn?",
+    "answer": "Thầy Hồ Quốc Dũng dạy môn Dữ liệu lớn nhóm 1. Lịch học: Nhóm 1 (thứ 5 tiết 1-3, phòng H107)."
+  },
+
+
+
+
+  {
+    "question": "Thầy Lê Quang Chiến dạy nhóm nào môn Phát triển ứng dụng trí tuệ nhân tạo?",
+    "answer": "Thầy Lê Quang Chiến dạy môn Phát triển ứng dụng trí tuệ nhân tạo nhóm 1. Lịch học: Nhóm 1 (thứ 7 tiết 1-3, phòng B202 - Lab)."
+  },
+
+
+
+  {
+    "question": "Thầy Nguyễn Dũng dạy nhóm nào môn XML và ứng dụng?",
+    "answer": "Thầy Nguyễn Dũng dạy môn XML và ứng dụng nhóm 1. Lịch học: Nhóm 1 (thứ 5 tiết 1-3, phòng E505 - Lab)."
+  },
+
+
+
+
+   {
+    "question": "Thầy Trần Nguyên Phong dạy nhóm nào môn Lập trình ứng dụng Web?",
+    "answer": "Thầy Trần Nguyên Phong dạy môn Lập trình ứng dụng Web nhóm 1. Lịch học: Nhóm 1 (thứ 6 tiết 1-3, phòng E505 - Lab)."
+  },
+
+
+
+   {
+    "question": "Thầy Lê Quang Chiến dạy nhóm nào môn Học máy?",
+    "answer": "Thầy Lê Quang Chiến dạy môn Học máy nhóm 1. Lịch học: Nhóm 1 (thứ 5 tiết 5-7, phòng B304)."
+  },
+
+
+
+  
+  {
+    "question": "Cô Đoàn Thị Hồng Phước dạy nhóm nào môn Xử lý ngôn ngữ tự nhiên?",
+    "answer": "Cô Đoàn Thị Hồng Phước dạy môn Xử lý ngôn ngữ tự nhiên nhóm 1. Lịch học: Nhóm 1 (thứ 3 tiết 5-7, phòng B301)."
+  },
+
+
+
+
+   {
+    "question": "Thầy Lê Quang Chiến dạy nhóm nào môn Thị giác máy tính?",
+    "answer": "Thầy Lê Quang Chiến dạy môn Thị giác máy tính nhóm 1. Lịch học: Nhóm 1 (thứ 4 tiết 5-7, phòng B304)."
+  },
+
+
+
+  
+  {
+    "question": "Cô Khổng Thị Thu Thảo dạy nhóm nào môn Trí tuệ nhân tạo?",
+    "answer": "Cô Khổng Thị Thu Thảo dạy môn Trí tuệ nhân tạo nhóm 1 và nhóm 10. Lịch học: Nhóm 1 (thứ 2 tiết 6-8, phòng F102), nhóm 10 (thứ 5 tiết 1-3, phòng E306)."
+  },
+  {
+    "question": "Cô Đoàn Thị Hồng Phước dạy nhóm nào môn Trí tuệ nhân tạo?",
+    "answer": "Cô Đoàn Thị Hồng Phước dạy môn Trí tuệ nhân tạo nhóm 2, nhóm 3 và nhóm 4. Lịch học: Nhóm 2 (thứ 4 tiết 1-3, phòng E304), nhóm 3 (thứ 5 tiết 5-7, phòng F102), nhóm 4 (thứ 4 tiết 5-7, phòng E303)."
+  },
+  {
+    "question": "Thầy Nguyễn Ngọc Thủy dạy nhóm nào môn Trí tuệ nhân tạo?",
+    "answer": "Thầy Nguyễn Ngọc Thủy dạy môn Trí tuệ nhân tạo nhóm 5, nhóm 6 và nhóm 7. Lịch học: Nhóm 5 (thứ 3 tiết 1-3, phòng E303), nhóm 6 (thứ 4 tiết 5-7, phòng F301), nhóm 7 (thứ 6 tiết 5-7, phòng E304)."
+  },
+  {
+    "question": "Thầy Trần Thanh Lương dạy nhóm nào môn Trí tuệ nhân tạo?",
+    "answer": "Thầy Trần Thanh Lương dạy môn Trí tuệ nhân tạo nhóm 8 và nhóm 9. Lịch học: Nhóm 8 (thứ 3 tiết 9-11, phòng E201), nhóm 9 (thứ 3 tiết 1-3, phòng E201)."
+  },
+
+
+
+
+    {
+    "question": "Thầy Võ Việt Dũng dạy nhóm nào môn Phát triển ứng dụng IoT?",
+    "answer": "Thầy Võ Việt Dũng dạy môn Phát triển ứng dụng IoT nhóm 1. Lịch học: Nhóm 1 (thứ 4 tiết 1-3, phòng B204 - Lab)."
+  }
+
+]

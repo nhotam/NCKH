@@ -1,0 +1,46 @@
+[
+  {
+    "question": "Điểm đánh giá bộ phận là gì vậy bạn?",
+    "answer": "Điểm đánh giá bộ phận, hay còn gọi là điểm quá trình học tập, được tính dựa trên một phần hoặc toàn bộ các điểm thành phần trong suốt quá trình học đó bạn."
+  },
+  {
+    "question": "Các thành phần nào được tính vào điểm đánh giá bộ phận vậy bạn?",
+    "answer": "Các thành phần có thể gồm: điểm chuyên cần, điểm kiểm tra thường xuyên, điểm đánh giá nhận thức và thái độ thảo luận, điểm thực hành, điểm kiểm tra giữa học phần, điểm tiểu luận… tùy theo từng học phần bạn nha."
+  },
+  {
+    "question": "Điểm đánh giá bộ phận chiếm bao nhiêu phần trăm tổng điểm vậy bạn?",
+    "answer": "Điểm đánh giá bộ phận sẽ có trọng số không quá 50% tổng điểm của học phần nha bạn."
+  },
+  {
+    "question": "Lịch kiểm tra giữa kỳ để lấy điểm quá trình có được thông báo trước không?",
+    "answer": "Có bạn nha, lịch kiểm tra sẽ được công bố trong đề cương học phần và phải thông báo trước ít nhất 01 tuần trước ngày kiểm tra."
+  },
+  {
+    "question": "Trường mình có tổ chức nhiều đợt thi kết thúc học phần trong một học kỳ không bạn?",
+    "answer": "Không nha, mỗi học kỳ Trường chỉ tổ chức một kỳ thi kết thúc học phần thôi bạn ạ."
+  },
+  {
+    "question": "Lịch thi kết thúc học phần sẽ được thông báo trước bao lâu vậy bạn?",
+    "answer": "Đối với học kỳ chính thì lịch thi được công bố ít nhất 2 tuần trước ngày thi, còn học kỳ phụ là ít nhất 1 tuần bạn nha."
+  },
+  {
+    "question": "Khi nào mình biết mình có được dự thi kết thúc học phần không bạn?",
+    "answer": "Danh sách sinh viên được thi sẽ được công bố cùng với lịch thi. Bạn nhớ kiểm tra kỹ nha, nếu không thấy tên thì phải liên hệ Phòng ĐTĐH&CTSV liền để được kiểm tra và điều chỉnh kịp thời."
+  },
+  {
+    "question": "Nếu bị mất tên trong danh sách thi thì làm sao bạn?",
+    "answer": "Bạn cần liên hệ ngay với Phòng ĐTĐH&CTSV để kiểm tra và điều chỉnh kịp thời trước khi thi nha!"
+  },
+  {
+    "question": "Nếu mình nghỉ thi cuối kỳ mà không có lý do thì bị gì vậy bạn?",
+    "answer": "Nếu bạn vắng thi mà không có lý do chính đáng, hoặc bị cấm thi do không đóng học phí đúng hạn thì vẫn bị tính là đã dự thi và sẽ nhận điểm 0 nha bạn."
+  },
+  {
+    "question": "Mình có lý do chính đáng thì có được thi bù không bạn?",
+    "answer": "Được nha! Nhưng bạn phải có xác nhận của Trưởng khoa quản lý sinh viên và được Trưởng phòng ĐTĐH&CTSV cho phép thì mới được thi vào học kỳ sau gần nhất có tổ chức học phần đó."
+  },
+  {
+    "question": "Nếu được thi lại vì có lý do chính đáng thì mình cần làm gì tiếp theo?",
+    "answer": "Bạn cần làm đơn xin dự thi kết thúc học phần theo mẫu và nộp cho Phòng ĐTĐH&CTSV để được xem xét giải quyết nha!"
+  }
+]
